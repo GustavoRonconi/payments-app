@@ -5,4 +5,4 @@
 
 ## Arquitetura
 
-<img src="https://grao.vc/wp-content/uploads/2022/12/kanastra_crunchbase_logo_verde.png" alt="Logo" width="300" height="300">
+<img src="https://github.com/GustavoRonconi/payments-app/blob/master/infrastructure/kanastra_challenge.drawio.png" alt="Logo" width="300" height="300">
